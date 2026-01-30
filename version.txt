@@ -1,0 +1,6 @@
+[
+    "latest_version" => "1.0.5",
+    "force_update" => true,
+    "download_url" => "https://yourdomain.com/app.apk",
+    "changelog" => "Bug fixes + Performance improvement"
+];
